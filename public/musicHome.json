@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "title": "Guiter Beginner to Advance",
+      "img": "https://cdn.shopify.com/s/files/1/1621/5363/files/tux4_1400x.png",
+      "mentor": "Joyanta Mondal",
+      "rating": 5,
+      "duration": "6 Months",
+      "date": "12/11/21",
+      "fee": "10000TK"
+    },
+    {
+      "id": 4,
+      "title": "Violin Beginner to Advance",
+      "img": "https://www.daysoftheyear.com/wp-content/uploads/violin-day1.jpg",
+      "mentor": "Halima Mawla",
+      "rating": 4,
+      "duration": "6 Months",
+      "date": "01/02/22",
+      "fee": "15000TK"
+    },
+    {
+      "id": 7,
+      "title": "Flute Set Beginner to Advance",
+      "img": "https://m.media-amazon.com/images/I/61UMrT940FL.jpg",
+      "mentor": "Ariful Islam",
+      "rating": 4.8,
+      "duration": "4 Months",
+      "date": "04/05/22",
+      "fee": "4000TK"
+    },
+    {
+      "id": 9,
+      "title": "Sitar Beginner to Advance",
+      "img": "https://girlinanewcity.files.wordpress.com/2016/04/strus.jpg",
+      "mentor": "Mr Mahin",
+      "rating": 5,
+      "duration": "8 Months",
+      "date": "06/06/22",
+      "fee": "18000TK"
+    }
+  ]
